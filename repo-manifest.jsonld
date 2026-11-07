@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/toga-chart/commit/896f19373a96ebcaa0e0435a50e9e24f5c7da118",
       "git:hexsha": "896f19373a96ebcaa0e0435a50e9e24f5c7da118",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/toga-chart/commit/9f5ff7c5995b4eafbbf3f0ef868ba46b8cfcb916",
